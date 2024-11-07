@@ -1,0 +1,8 @@
+swatikagalkarproject\pageObjects\LandingPage.class
+swatikagalkarproject\pageObjects\ConfirmationPage.class
+swatikagalkarproject\pageObjects\ProductCatalogue.class
+swatikagalkarproject\pageObjects\AbstractComponent.class
+swatikagalkarproject\pageObjects\CheckoutPage.class
+swatikagalkarproject\pageObjects\CartPage.class
+swatikagalkarproject\pageObjects\OrderPage.class
+swatikagalkarproject\resources\ExtentReporterNG.class
